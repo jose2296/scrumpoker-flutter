@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239179241756",
+    "firebase_url": "https://scrumpoker-22.firebaseio.com",
+    "project_id": "scrumpoker-22",
+    "storage_bucket": "scrumpoker-22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239179241756:android:382b3861735263a0cfc2d9",
+        "android_client_info": {
+          "package_name": "com.example.scrumpoker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239179241756-9bneb6rgq2gck57dhn2nrqoiu9ggbnpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq02CtA_70Tff5KQnFYAoyqm38t-JTnXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239179241756-9bneb6rgq2gck57dhn2nrqoiu9ggbnpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
